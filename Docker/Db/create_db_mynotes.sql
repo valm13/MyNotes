@@ -1,0 +1,2 @@
+CREATE DATABASE mynotes;
+GRANT ALL PRIVILEGES ON DATABASE mynotes TO postgres;

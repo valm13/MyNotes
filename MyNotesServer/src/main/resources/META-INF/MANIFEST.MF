@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.dilitrust.recruitement.magnan.mynotes.server.MyNotesServ
+ erApplication
+
