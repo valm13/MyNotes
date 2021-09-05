@@ -20,6 +20,7 @@ Then, you will generate the Android app with the right URL to your web service.
 Thanks to containerization, your web service can go up within minutes.
 
 - [Copy the directory Docker where you want to launch the web service](./Docker)
+- [Copy the .jar file into  folder](./Docker/App)
 - To create your containers, run the following command in the Docker directory :
 
     ```shell
